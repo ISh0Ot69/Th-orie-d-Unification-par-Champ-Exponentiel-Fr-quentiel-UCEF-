@@ -21,97 +21,97 @@ Où :
 ### 2.1 Nature de $$\(f\)$$
 La fonction $$\(f\)$$ représente toutes les influences environnementales par unité de masse :
 
-\[
+$$\[
 f = \Phi_{\text{grav}} + \frac{qV}{m} + \frac{1}{2}v^2 + \frac{P}{\rho} + f_{\text{quant}} + \cdots
-\]
+\]$$
 
 ### 2.2 Cas Particuliers
 
 #### 2.2.1 Redshift Gravitationnel
-Si \(M_{\text{réf}} = M_{\text{loc}}\) et \(f = \Phi\) (potentiel gravitationnel) :
+Si $$\(M_{\text{réf}} = M_{\text{loc}}\)$$ et $$\(f = \Phi\)$$ (potentiel gravitationnel) :
 
-\[
+$$\[
 \frac{E_{\infty}}{E_{\text{loc}}} = 1 + \frac{\Phi}{c^2}
-\]
+\]$$
 
-Avec \(\Phi = -GM/r\), on retrouve l'approximation faible de la relativité générale.
+Avec $$\(\Phi = -GM/r\)$$, on retrouve l'approximation faible de la relativité générale.
 
 #### 2.2.2 Dilatation Relativiste
-Si \(f = (\gamma - 1)c^2\) et \(M_{\text{réf}} = M_{\text{loc}}\) :
+Si $$\(f = (\gamma - 1)c^2\)$$ et $$\(M_{\text{réf}} = M_{\text{loc}}\)$$ :
 
-\[
+$$\[
 \frac{E_{\text{réf}}}{E_{\text{loc}}} = \gamma
-\]
+\]$$
 
-où \(\gamma = (1 - v^2/c^2)^{-1/2}\).
+où $$\(\gamma = (1 - v^2/c^2)^{-1/2}\)$$.
 
 #### 2.2.3 Potentiel Électrique
-Si \(f = qV/m\) (potentiel électrostatique par unité de masse) :
+Si $$\(f = qV/m\)$$ (potentiel électrostatique par unité de masse) :
 
-\[
+$$\[
 \frac{E_{\text{réf}}}{E_{\text{loc}}} = \frac{M_{\text{réf}}}{M_{\text{loc}}} + \frac{qV}{mc^2}
-\]
+\]$$
 
 ## 3. Dynamique du Champ \(f\)
 
 Pour une théorie auto-cohérente, \(f\) doit obéir à une équation de champ :
 
 ### 3.1 Équation Proposée
-\[
+$$\[
 \Box f = \frac{8\pi G}{c^2} T_{\text{tot}} + \Lambda_f
-\]
+\]$$
 
 Où :
-- \(\Box = \nabla_\mu \nabla^\mu\) : D'alembertien en espace courbe
-- \(T_{\text{tot}}\) : Trace du tenseur énergie-impulsion total
-- \(\Lambda_f\) : Terme de constante cosmologique effective (peut dépendre de \(f\))
+- $$\(\Box = \nabla_\mu \nabla^\mu\)$$ : D'alembertien en espace courbe
+- $$\(T_{\text{tot}}\)$$ : Trace du tenseur énergie-impulsion total
+- $$\(\Lambda_f\)$$ : Terme de constante cosmologique effective (peut dépendre de $$\(f\))$$
 
 ### 3.2 Limite Newtonienne
-Si \(f = \Phi\) statique et faible :
+Si $$\(f = \Phi\)$$ statique et faible :
 
-\[
+$$\[
 \nabla^2 \Phi = 4\pi G \rho
-\]
+\]$$
 
 On retrouve l'équation de Poisson pour le potentiel gravitationnel.
 
 ## 4. Formulation Lagrangienne
 
 ### 4.1 Action Totale
-\[
+$$\[
 S = \int d^4x \sqrt{-g} \left[ \mathcal{L}_{\text{grav}} + \mathcal{L}_f + \mathcal{L}_{\text{mat}} \right]
-\]
+\]$$
 
 ### 4.2 Composantes du Lagrangien
 
 #### 4.2.1 Gravité
-\[
+$$\[
 \mathcal{L}_{\text{grav}} = \frac{c^4}{16\pi G} R
-\]
+\]$$
 
-#### 4.2.2 Champ \(f\)
-\[
+#### 4.2.2 Champ $$\(f\)$$
+$$\[
 \mathcal{L}_f = -\frac{1}{2} \nabla_\mu f \nabla^\mu f - V(f)
-\]
+\]$$
 
 #### 4.2.3 Matière
-\[
+$$\[
 \mathcal{L}_{\text{mat}} = \mathcal{L}_{\text{Dirac}} + \mathcal{L}_{\text{EM}} + \mathcal{L}_{\text{Yukawa}} + \cdots
-\]
+\]$$
 
 ### 4.3 Contrainte UEMP
 L'équation fondamentale émerge comme contrainte des équations du mouvement couplées :
 
-\[
+$$\[
 \frac{\delta S}{\delta (\text{champs})} = 0 \quad \Rightarrow \quad \frac{E_{\text{réf}}}{E_{\text{loc}}} = \frac{M_{\text{réf}}}{M_{\text{loc}}} + \frac{f}{c^2}
-\]
+\]$$
 
 ## 5. Auto-cohérence et Couplages
 
 ### 5.1 Boucle de Rétroaction
 Le système est auto-cohérent grâce aux couplages :
 
-1. £$\(f\)$$ influence $$\(g_{\mu\nu}\)$$ via \$$(T_{\mu\nu}^f\)$$
+1. $$\(f\)$$ influence $$\(g_{\mu\nu}\)$$ via \$$(T_{\mu\nu}^f\)$$
 2. $$\(g_{\mu\nu}\)$$ influence $$\(f\)$$ via $$\(\Box\)$$ et les géodésiques
 3. $$\(f\)$$ influence $$\(E_{\text{loc}}\)$$ via la formule UEMP
 4. $$\(E_{\text{loc}}\)$$ influence $$\(T_{\text{tot}}\)$$ via la densité d'énergie
