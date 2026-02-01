@@ -4,22 +4,22 @@
 
 La théorie UEMP propose une relation unificatrice entre énergie, masse et influences environnementales :
 
-\[
+$$\[
 \frac{E_{\text{réf}}}{E_{\text{loc}}} = \frac{M_{\text{réf}}}{M_{\text{loc}}} + \frac{f}{c^2}
-\]
+\]$$
 
 Où :
-- \(E_{\text{réf}}, E_{\text{loc}}\) : Énergies mesurées dans les référentiels de référence et local
-- \(M_{\text{réf}}, M_{\text{loc}}\) : Masses correspondantes (invariantes ou effectives)
-- \(f\) : Fonction potentielle généralisée de dimension \([L^2T^{-2}]\)
-- \(c\) : Vitesse de la lumière
+-$$ \(E_{\text{réf}}, E_{\text{loc}}\) $$: Énergies mesurées dans les référentiels de référence et local
+- $$\(M_{\text{réf}}, M_{\text{loc}}\)$$ : Masses correspondantes (invariantes ou effectives)
+- $$\(f\)$$ : Fonction potentielle généralisée de dimension $$\([L^2T^{-2}]\)$$
+- $$\(c\)$$ : Vitesse de la lumière
 
-**Condition dimensionnelle** : Pour que \(f/c^2\) soit sans dimension, \(f\) doit avoir la dimension de \(c^2\), c'est-à-dire \([L^2T^{-2}]\).
+**Condition dimensionnelle** : Pour que $$\(f/c^2\)$$ soit sans dimension, $$\(f\)$$ doit avoir la dimension de \(c^2\), c'est-à-dire $$\([L^2T^{-2}]\)$$.
 
-## 2. Interprétation Physique de \(f\)
+## 2. Interprétation Physique de $$\(f\)$$
 
-### 2.1 Nature de \(f\)
-La fonction \(f\) représente toutes les influences environnementales par unité de masse :
+### 2.1 Nature de $$\(f\)$$
+La fonction $$\(f\)$$ représente toutes les influences environnementales par unité de masse :
 
 \[
 f = \Phi_{\text{grav}} + \frac{qV}{m} + \frac{1}{2}v^2 + \frac{P}{\rho} + f_{\text{quant}} + \cdots
