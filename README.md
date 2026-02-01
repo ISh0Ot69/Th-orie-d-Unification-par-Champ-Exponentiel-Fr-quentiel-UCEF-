@@ -159,8 +159,8 @@ $$
 
 ### 7.1 Quantification du Champ $f$
 Approche effective :
-$$
-\hat{f}(x) = f_{\text{classique}}(x) + \delta\hat{f}(x)$$
+
+$$\hat{f}(x) = f_{\text{classique}}(x) + \delta\hat{f}(x)$$
 
 avec $\langle \delta\hat{f} \rangle = 0$, $\langle \delta\hat{f}(x)\delta\hat{f}(y) \rangle = G_F(x-y)$
 
