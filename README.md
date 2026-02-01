@@ -1,4 +1,4 @@
-Théorie d'Unification par Champ Exponentiel-Fréquentiel (UCEF)
+# 🌌 THÉORIE D'UNIFICATION PAR CHAMP EXPONENTIEL-FRÉQUENTIEL (UCEF)
 
 ## 1. Équation Fondamentale
 
