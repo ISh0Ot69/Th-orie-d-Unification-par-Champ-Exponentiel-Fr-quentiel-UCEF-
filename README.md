@@ -195,9 +195,9 @@ UEMP généralise les théories de Brans-Dicke avec :
 ### 8.3 Théories de Gauge Unifiées
 $f$ pourrait être le champ de Higgs d'une unification gravité-matière :
 
-$$
-f = \langle H \rangle + \delta H
-$$
+
+f = $$\langle H \rangle + \delta H$$
+
 avec $H$ champ de Higgs étendu.
 
 ### 8.4 Gravité Quantique à Boucles
