@@ -1,5 +1,5 @@
-
 Théorie d'Unification par Champ Exponentiel-Fréquentiel (UCEF)
+
 ## 1. Équation Fondamentale
 
 La théorie UEMP propose une relation unificatrice entre énergie, masse et influences environnementales :
