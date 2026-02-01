@@ -277,14 +277,12 @@ La théorie UEMP propose un cadre unificateur élégant où :
 
 ## Licence
 
-Ce document est fourni sous licence Creative Commons Attribution 4.0 International. Les équations et concepts peuvent être utilisés librement avec attribution appropriée.
-
-## Contact
-
-Pour discussions scientifiques : [email protégé]
-Pour collaborations : [email protégé]
-
+|                         |
+|   TOUS DROITS RÉSERVÉS  |
+|   © [Jean-Etienne LEPOUTRE]
+[2026] |
+|_________________________|
+Document généré le 1er février 2026 
 ---
 
-*Document généré le 1er février 2026 - Version 1.0*
-*Théorie UEMP - Tous droits réservés pour développements ultérieurs*
+
